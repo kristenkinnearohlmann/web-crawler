@@ -1,6 +1,8 @@
 # Win10 run command as py -2 web-crawler.py
 # https://medium.freecodecamp.org/how-to-build-a-url-crawler-to-map-a-website-using-python-6a287be1da11
 # solve? https://www.google.com/search?q=python+get+urls+deque&oq=python+get+urls+deque&aqs=chrome..69i57j33.7249j0j7&sourceid=chrome&ie=UTF-8
+# TODO: break into functions
+# TODO: iterate properly
 
 from bs4 import BeautifulSoup
 import requests
